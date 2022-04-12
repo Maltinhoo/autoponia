@@ -29,7 +29,7 @@ class CommonDrawer extends StatelessWidget {
             ),
           ),
           Text(
-            'José Luis',
+            'Josué',
             style: TextStyle(
                 color: Colors.black,
                 fontWeight: FontWeight.bold,
