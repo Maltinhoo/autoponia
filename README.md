@@ -1,6 +1,4 @@
-# Boilerplate Flutter
-
-Estrutura básica para projetos Flutter.
+# Proposta de Exercicio - Vaga Desenvolvedor Jr
 
 ## Server
 
